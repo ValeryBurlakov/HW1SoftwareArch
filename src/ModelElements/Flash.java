@@ -11,6 +11,6 @@ public class Flash {
     public float Power;
 
 
-    public void Rotate(Angle3D Angel){}
-    public void Move(Point3D Location){}
+    public void Rotate(Angle3D angle){}
+    public void Move(Point3D point3D){}
 }
